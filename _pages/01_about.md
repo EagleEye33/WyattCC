@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
+This website is dedicated to projects and math stuff.
 
-- A list item
-- Another list item
+- Projects are usually programming related
+- math stuff is anything under the math sun.
