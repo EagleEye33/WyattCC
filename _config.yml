@@ -22,7 +22,7 @@ title: Wyatt's project website
 email: wyattcolyn1248@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wyatt Colyn's website.
-baseurl: '/WyattCC/' # the subpath of your site, e.g. /blog
+baseurl: '/WyattCC' # the subpath of your site, e.g. /blog
 url: 'https://EagleEye33.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: n/a
 github_username:  EagleEye33
