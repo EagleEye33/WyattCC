@@ -13,3 +13,4 @@ As of right now this website is dedicated to programming projects and serves as 
 
 - Projects are usually related to website development
 - You can see a growing list of related technologies I have learned at the [home page]({% link _pages/site.baseurl/03_home.md %})
+- blah
