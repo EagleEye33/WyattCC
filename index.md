@@ -12,4 +12,4 @@ currently I am transitioning into a web development career and hence the purpose
 As of right now this website is dedicated to programming projects and serves as a virtual resume.
 
 - Projects are usually related to website development
-- You can see a growing list of related technologies I have learned at the [home page](https://eagleeye33.github.io/WyattCC/home/)
+- You can see a growing list of related technologies I have learned at the [home page]({{ "/home" | absolute_url }})
