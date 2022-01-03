@@ -5,6 +5,7 @@ date:   2021-12-22
 categories: General Posts
 author: Wyatt 
 ---
+*source code for is [here](https://github.com/wyattcolyn/mailRobot){:target="_blank"}*
 
 The aim of this project was to dive head first into a pure javascript project 
 using all the fundamentals from program structure to higher-order functions and object-oriented programming.
@@ -18,3 +19,5 @@ There are four robots to select from(four robot functions):
 2. The standardRobot will mimic how real world mail delivery systems work: The robot will make two full complete cycles of the route - one for picking up all the parcels and another for delivering the parcels. This gurantees the robot will complete in a maximum of 26 turns. 
 3. The smartRobot is a major improvement in terms of intelligent decision making. smartRobot will check every path around it that is a valid location for dropping off a parcel or picking up a parcel in the current route and move toward the closest one.
 4. lazyRobot is similar to smartRobot except there is a small bonus system for paths that include picking up parcels. For example, if a valid drop off location is one step away(assuming the robot already has the parcel to drop off at the location in interest) versus a location two steps away but has three parcels, the robot will move toward picking up the parcels first.
+
+- [update 1/3/2022]( {{ "/updates/deliveryrobot-Update(Jan3rd2022).html"|absolute_url}})
