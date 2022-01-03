@@ -28,6 +28,9 @@ twitter_username: n/a
 github_username:  wyattcolyn
 
 # Build settings
+collections:
+  - updates:
+    output: true
 sass:
   sass_dir: _sass
 include: ['_pages']

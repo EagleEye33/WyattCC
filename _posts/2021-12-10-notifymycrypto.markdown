@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "notifymycrypto - a website for enabling notifications on cryptocurrency trends"
+date:   2021-12-10 18:05:50 -0700
+categories: General Posts
+author: Wyatt 
+---
+
+*This website is currently in progress - visit the website [here](https://wyattcolyn.github.io/notifymycrypto/notifymycrypto.html){:target="_blank"}*
+
+This is my first and continuously updating website project. You can view the updates where I detail my progress(adding features, rethinking design choices, bug fixes etc.) for this website in the links below.
+
+[update 1/2/2022]({{ "/_updates/test.html" | absolute_url }})

@@ -13,7 +13,7 @@ Here's a list of technologies, frameworks and libraries I have used and that you
 - Javascript
 - HTML and CSS
 - Liquid
-- Microsoft SQL Server
+- Microsoft SQL Server - mySQL
 - PHP
 - React
 - Jquery
