@@ -5,7 +5,7 @@ date:   2021-12-22
 categories: General Posts
 author: Wyatt 
 ---
-*source code for is [here](https://github.com/wyattcolyn/mailRobot){:target="_blank"}*
+*source code for this project is [here](https://github.com/wyattcolyn/mailRobot){:target="_blank"}*
 
 The aim of this project was to dive head first into a pure javascript project 
 using all the fundamentals from program structure to higher-order functions and object-oriented programming.
