@@ -29,7 +29,7 @@ github_username:  wyattcolyn
 
 # Build settings
 collections:
-  - updates:
+  updates:
     output: true
 sass:
   sass_dir: _sass
