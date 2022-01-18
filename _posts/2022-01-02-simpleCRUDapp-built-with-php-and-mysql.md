@@ -10,3 +10,4 @@ This is an experimental project to learn how php and mysql are used to create a 
 There is no link to interact with the content, but you can visit the source code [here](https://github.com/wyattcolyn/simpleCRUDapp){:target="blank"}
 
  - [update 1/3/2022]({{ "/updates/simpleCRUDapp-Update(Jan3rd2022).html"|absolute_url}})
+ - [update 1/17/2022]({{ "/updates/simpleCRUDapp-Update(Jan17th2022).html"|absolute_url}})
