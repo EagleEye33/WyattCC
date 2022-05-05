@@ -17,6 +17,4 @@ There is definitely a bigger learning curve to Angular and building a small app 
 There is more I could say about all the properties and methods I learned, however I wanted to cover what I thought are the main ideas. In the future I'd like to rewrite the front-end of my crypto-currency notification website using Angular (and add some stuff along the way) .. look out for an update one day
 
 
-Interact with the project [here](https://wyattcolyn.github.io/AngularIntroduction){:target="blank"}
-
 You can visit the source code [here](https://github.com/wyattcolyn/AngularIntroduction/tree/main){:target="blank"}
